@@ -1,0 +1,9 @@
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/CMakeFiles/hello.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/CMakeFiles/edit_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/formatter_ex/CMakeFiles/formatter_ex.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/formatter_ex/CMakeFiles/edit_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/formatter_ex/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/formatter_ex/formatter/CMakeFiles/formatter.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/formatter_ex/formatter/CMakeFiles/edit_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/hello_world_application/formatter_ex/formatter/CMakeFiles/rebuild_cache.dir

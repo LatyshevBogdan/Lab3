@@ -1,0 +1,6 @@
+/mnt/c/Users/XPPro/Labs/Lab3/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/mnt/c/Users/XPPro/Labs/Lab3/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/formatter_ex_lib/formatter/CMakeFiles/formatter.dir
+/mnt/c/Users/XPPro/Labs/Lab3/formatter_ex_lib/formatter/CMakeFiles/edit_cache.dir
+/mnt/c/Users/XPPro/Labs/Lab3/formatter_ex_lib/formatter/CMakeFiles/rebuild_cache.dir
